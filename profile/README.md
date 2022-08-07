@@ -4,6 +4,7 @@ Nous sommes l'équipe en charge du serveur Minecraft : EpiCraft
 Tu pourras trouver tous les différents projets sur lesquels nous travaillons 🧙
 
 Viens nous rejoindre sur discord : https://discord.gg/daDYRbBjzx
+
 Et en jeu (Bedrock + Java) : mc.epicraft.fr
 
 Bon jeu !
